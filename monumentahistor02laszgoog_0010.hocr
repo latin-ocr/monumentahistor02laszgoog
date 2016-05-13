@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monumentahistor02laszgoog_0010.png"; bbox 0 0 3428 5256; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 447 782 1313 975">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 447 782 1313 975">
+     <span class='ocr_line' id='line_1_1' title="bbox 447 782 1313 975; baseline 0.005 -35"><span class='ocrx_word' id='word_1_1' title='bbox 447 782 861 975; x_wconf 84' lang='lat' dir='ltr'>POVJESTNI</span> <span class='ocrx_word' id='word_1_2' title='bbox 908 784 1313 945; x_wconf 78' lang='lat' dir='ltr'><strong>SPOMENICI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 607 1160 1140 1265">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 607 1160 1140 1265">
+     <span class='ocr_line' id='line_1_2' title="bbox 607 1160 1140 1265; baseline 0.002 -26"><span class='ocrx_word' id='word_1_3' title='bbox 607 1160 745 1240; x_wconf 89' lang='lat' dir='ltr'><strong>SLOB.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 775 1162 937 1265; x_wconf 85' lang='lat' dir='ltr'><strong>KRALJ.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 968 1163 1140 1240; x_wconf 83' lang='lat' dir='ltr'><strong>GRADA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 242 1481 1498 1700">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 242 1481 1498 1700">
+     <span class='ocr_line' id='line_1_3' title="bbox 242 1481 1498 1700; baseline 0.004 -6"><span class='ocrx_word' id='word_1_6' title='bbox 242 1481 1498 1700; x_wconf 80' lang='lat' dir='ltr'><strong>ZAGREBA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 536 1935 1227 2041">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 536 1935 1227 2041">
+     <span class='ocr_line' id='line_1_4' title="bbox 536 1935 1227 2041; baseline 0.003 -28"><span class='ocrx_word' id='word_1_7' title='bbox 536 1935 895 2016; x_wconf 83' lang='lat' dir='ltr'><strong>PRIESTOLNICE</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 925 1937 1227 2041; x_wconf 84' lang='lat' dir='ltr'>KRALJEVINE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 348 2253 1409 2358">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 348 2253 1409 2358">
+     <span class='ocr_line' id='line_1_5' title="bbox 348 2253 1409 2358; baseline 0.005 -7"><span class='ocrx_word' id='word_1_9' title='bbox 348 2253 1409 2358; x_wconf 78' lang='lat' dir='ltr'><strong>DALMATINSKO·HRVATSKO·SLAVONSKE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 769 2548 980 2570">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 769 2548 980 2570">
+     <span class='ocr_line' id='line_1_6' title="bbox 769 2548 980 2570; baseline 0.005 -1"><span class='ocrx_word' id='word_1_10' title='bbox 769 2548 980 2570; x_wconf 64' lang='lat'><strong>-—00*0·—</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 0 0 1718 5256">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 0 0 1718 5256">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1718 5256; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1718 5256; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
